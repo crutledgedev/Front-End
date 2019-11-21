@@ -51,10 +51,12 @@ function NavBar (){
         <div>
             <StyledNav>
                 <div className="title">
-                <h3>Air BnB Predictive Pricing</h3>
+                <h3>AirBnB Optimal Pricing</h3>
                 </div>
                 <nav>
-                    <NavLink to={"/"}>Home</NavLink>   
+                    <NavLink to={"/"}>Home</NavLink>
+                    <NavLink to={"/about"}>About</NavLink>   
+                    <NavLink to={"/MVP"}>MVP</NavLink>
                     <Onboarding/>                                         
                 </nav>
 

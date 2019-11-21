@@ -8,7 +8,7 @@ import {
 import './App.css';
 import Home from './Components/Marketing/Home';
 // import Onboarding from './Components/Onboarding/Onboarding';
-import NavBar from './Components/Navigation/index';
+import NavBar from './Components/Navigation/NavBar';
 import DashBoard from './Components/Dashboard/DashBoard';
 
 
